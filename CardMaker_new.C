@@ -1,7 +1,7 @@
 
 {
 
-    for(Int_t obji=2; obji<12 ; obji++){
+    for(Int_t obji=2; obji<11 ; obji++){
 
         TString multi;
         stringstream om; om << obji;
