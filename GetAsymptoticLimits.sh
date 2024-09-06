@@ -1,8 +1,8 @@
 #bin/bash
 #declare -a multi=("2" "3" "4" "5" "6" "7" "8")
 #declare -a multi=("3" "4" "5" "6" "7" "8" "9" "10")
-#declare -a multi=("7" "8")
-declare -a multi=("3" "4" "5" "6" "7" "8")
+declare -a multi=("7" "8")
+#declare -a multi=("3" "4" "5" "6" "7" "8")
 #declare -a stmin=("4500")
 START=4300
 END=8000
